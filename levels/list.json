@@ -1,0 +1,18 @@
+{
+    "pageCount": 1,
+    "list": [
+        {
+            "title": "Test",
+            "artists": "Test",
+            "author": "loader3229 (@qq1010903229)",
+            "cover": "https://sonolus.com/assets/jacket089.png",
+            "bgm": "https://sonolus.com/assets/bgm089.mp3",
+            "difficulties": [
+                {
+                    "name": "v",
+                    "rating": 0
+                }
+            ]
+        }
+    ]
+}
