@@ -29,5 +29,25 @@ document.execCommand("copy");
 我的太鼓自制谱服务器：<span onclick="cp(this);">https://cdn.jsdelivr.net/gh/qq1010903229/sonolus-tkc@master</span><br>-->
 <hr>
 复制处：<input id="z">
+<script src="/bandoril2d/jquery.min.js"></script>
+<script src="/bandoril2d/live2d.js"></script>
+    <link rel="stylesheet" type="text/css" href="/bandoril2d/waifu.css"/>
+<div class="waifu">
+        
+        <canvas id="live2d" class="live2d"></canvas>
+    </div>
+<script>
+function initl2d(){
+$("#live2d").attr("width",300);
+$("#live2d").attr("height",375);
+$(".waifu").css("right",'0px');
+$("#live2d")[0].addEventListener("click",l2dclick);
+loadlive2d('live2d', 'https://cdn.jsdelivr.net/gh/qq1010903229/qq1010903229.github.io@2323af57fb00e7f6723a42a6c25af4e94d1c4cce/w_jsdelivr.json', null);
+}
+function l2dclick(){
+window.l2de.startMotion('c',0);
+}
+setTimeout(initl2d,500);
+</script>
 </body>
 </html>
