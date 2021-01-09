@@ -82,6 +82,30 @@
                 }
             ]
         },{
+            "title": "デイタイム♪ （主菜单BGM）",
+            "artists": "BanG Dream!",
+            "author": "loader3229 (@qq1010903229)",
+            "cover": "https://sonolus.reikohaku.fun/bestdori/api/upload/14/chart_cover/vyilnn79s5xdoms0pfxm",
+            "bgm": "https://sonolus.reikohaku.fun/bestdori/api/upload/14/chart_audio/vktpkknj5zqm87ybauwi",
+            "difficulties": [
+                {
+                    "name": "30655",
+                    "rating": 4
+                },
+                {
+                    "name": "30750",
+                    "rating": 8
+                },
+                {
+                    "name": "30758",
+                    "rating": 14
+                },
+                {
+                    "name": "30759",
+                    "rating": 18
+                }
+            ]
+        },{
             "title": "ほしのおとしもの",
             "artists": "ああああ",
             "author": "loader3229 (@qq1010903229)",
@@ -107,6 +131,38 @@
                 {
                     "name": "31072",
                     "rating": 30
+                }
+            ]
+        },{
+            "title": "Happy Happy Party!",
+            "artists": "Poppin'Party",
+            "author": "loader3229 (@qq1010903229)",
+            "cover": "https://sonolus.reikohaku.fun/bestdori/assets/jp/musicjacket/musicjacket30_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket30-kirayume-jacket.png",
+            "bgm": "https://sonolus.reikohaku.fun/bestdori/assets/jp/sound/bgm040_rip/bgm040.mp3",
+            "difficulties": [
+                {
+                    "name": "27595",
+                    "rating": 26
+                },
+                {
+                    "name": "28480",
+                    "rating": 27
+                },
+                {
+                    "name": "32373",
+                    "rating": 30
+                }
+            ]
+        },{
+            "title": "[FULL] God Knows SP",
+            "artists": "Poppin'Party",
+            "author": "loader3229 (@qq1010903229)",
+            "cover": "https://sonolus.reikohaku.fun/bestdori/assets/jp/musicjacket/musicjacket10_rip/assets-star-forassetbundle-startapp-musicjacket-musicjacket10-godknows-jacket.png",
+            "bgm": "https://sonolus.reikohaku.fun/bestdori/api/upload/chart_audio/tlb9b79uiwzsvhp3mwqx",
+            "difficulties": [
+                {
+                    "name": "33500",
+                    "rating": 27
                 }
             ]
         }
