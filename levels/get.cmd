@@ -1,8 +1,7 @@
 @echo off
-set version=0.4.8
+set version=0.5.0
 set/p id=Input ID:
 md %id%
 cd %id%
-curl http://jiashule.sonolus.reikohaku.fun/servers/%version%/bestdori/levels/%id%/level.json --output level.json
-curl http://jiashule.sonolus.reikohaku.fun/servers/%version%/bestdori/levels/%id%/options.json --output options.json
+curl https://sonolus.reikohaku.fun/servers/bestdori/levels/%id%/data --output data
 pause
